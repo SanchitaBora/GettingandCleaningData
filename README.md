@@ -1,4 +1,4 @@
-# GettingandCleaningData
+# Getting and Cleaning Data
 
 # Goals of the Project
 1. Creating a tidy data set using R
